@@ -19,11 +19,11 @@ export const putDb = async (id, content) => {
 
   const tx = db.transaction('jate', 'readwrite');
   const store = tx.objectStore('jate');
-  const request = store.put(content);
+  const request = store.put( {id: id, value: content});
 
   const result = await request;
-  console.log('result.value', result);
-  return result;
+  console.log('🚀 - data saved to the database', result);
+  
 };
 
 // TODO: Add logic for a method that gets all the content from the database
