@@ -26,8 +26,15 @@ Final app:
 
 Manifest screenshot:
 
+![manifest](https://user-images.githubusercontent.com/101073782/223267928-f9d4bf0a-5881-423b-bbb5-73a3fba2a3bc.png)
 
+Service worker:
 
+![serviceWorker](https://user-images.githubusercontent.com/101073782/223268000-6511581c-95e7-47c8-a3a8-3e8475fc36cf.png)
+
+Storage:
+
+![storage](https://user-images.githubusercontent.com/101073782/223268039-72ae00d7-23e9-4cde-b3fb-a4eb5a1c4185.png)
 
 
 ## Instructions
