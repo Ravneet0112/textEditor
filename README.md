@@ -22,20 +22,16 @@ For installation, first user has to run command 'npm run start'. Then user will 
 
 Final app:
 
-![app](https://user-images.githubusercontent.com/101073782/223266291-250b19ba-fa9a-4357-a697-3543a8e32321.png)
-
+![app](https://user-images.githubusercontent.com/101073782/223274850-c98b1b36-4803-4a79-ae8e-d0112752c9da.png)
 Manifest screenshot:
 
-![manifest](https://user-images.githubusercontent.com/101073782/223267928-f9d4bf0a-5881-423b-bbb5-73a3fba2a3bc.png)
-
+![manifest](https://user-images.githubusercontent.com/101073782/223274799-697e59c5-fbfc-4f9c-9c2b-59052bd7e44b.png)
 Service worker:
 
-![serviceWorker](https://user-images.githubusercontent.com/101073782/223268000-6511581c-95e7-47c8-a3a8-3e8475fc36cf.png)
-
+![serviceWorker](https://user-images.githubusercontent.com/101073782/223274830-429948fa-7ae2-466f-8644-03ec43d7253e.png)
 Storage:
 
-![storage](https://user-images.githubusercontent.com/101073782/223268039-72ae00d7-23e9-4cde-b3fb-a4eb5a1c4185.png)
-
+![storage](https://user-images.githubusercontent.com/101073782/223274838-2da091c6-3999-4121-9d6b-0fa763c7ed92.png)
 
 ## Instructions
 To test the app, please make sure that user has below dependencies installed by using the below commands: 
